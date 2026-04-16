@@ -2,7 +2,7 @@
 
 My name is Erick Garcia and I'm from El Salvador. 
 
-🌱 I’m currently learning a lot of Fronted (Angular, html, sass, ngrx), I enjoy coding and learning new stuff. I also love the logic and structure of coding and always look for the best approach. 
+🌱 I’m currently learning a lot of Software develop, I enjoy coding and learning new stuff. I also love the logic and structure of coding and always look for the best approach. 
 
 <!--
 **RayWorld1994/RayWorld1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
